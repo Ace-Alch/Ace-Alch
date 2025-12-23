@@ -37,7 +37,7 @@ My work spans **embedded C/C++ development, sensor integration, control systems,
 #### **Microcontrollers & Platforms**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white) ![Pynq](https://img.shields.io/badge/-Pynq-5E81AC?logoColor=white) ![AVR](https://img.shields.io/badge/-AVR-8C1932?logoColor=white)  
 #### **Graphic & UI/UX Design**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
 #### **Web Development**  
 ![Frontend](https://img.shields.io/badge/-Frontend-E34F26?logo=html5&logoColor=white) ![Backend](https://img.shields.io/badge/-Backend-4B8BBE?logo=python&logoColor=white)  
 #### **Productivity Suite**  
@@ -47,7 +47,7 @@ My work spans **embedded C/C++ development, sensor integration, control systems,
 #### **Hardware Design**  
 ![Schematic](https://img.shields.io/badge/-Schematic-8B0000?logoColor=white) ![PCBA](https://img.shields.io/badge/-PCBA-FF6F00?logoColor=white) ![Circuit Prototyping](https://img.shields.io/badge/-Circuit%20Prototyping-3CB371?logoColor=white) 
 #### **Networking**  
-![MODBUS](https://img.shields.io/badge/-MODBUS-0055A4?logoColor=white) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-6A5ACD?logoColor=white) ![Ethernet](https://img.shields.io/badge/-Ethernet-FF0000?logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logoColor=white) ![RS232](https://img.shields.io/badge/-RS232-00008B?logoColor=white) ![RS485](https://img.shields.io/badge/-RS485-6A5ACD?logoColor=white) 
+![MODBUS](https://img.shields.io/badge/-MODBUS-0055A4?logoColor=white) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-6A5ACD?logoColor=white) ![Ethernet](https://img.shields.io/badge/-Ethernet-FF0000?logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logoColor=white)
 
 ---
 
