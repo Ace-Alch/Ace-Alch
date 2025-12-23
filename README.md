@@ -29,7 +29,7 @@ My work spans **embedded C/C++ development, sensor integration, control systems,
 #### **Simulation & Modeling**  
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-8C1C13?logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white)  
 #### **3D Modeling & Layout Design**  
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-EE3124?logo=autodesk&logoColor=white) ![Catia](https://img.shields.io/badge/-CATIA-F5792A?logo=blender&logoColor=white)  
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-EE3124?logo=solidwroks&logoColor=white) ![Catia](https://img.shields.io/badge/-CATIA-F5792A?logo=catia&logoColor=white)  
 #### **Programming Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
 #### **Development Environments**  
