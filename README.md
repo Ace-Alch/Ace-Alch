@@ -25,11 +25,11 @@ My work spans **embedded C/C++ development, sensor integration, control systems,
 #### **IDEs**  
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/-PlatformIO-EE4C2C?logo=platformio&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-00979D?logo=espressif&logoColor=white)  
 #### **Hardware Design & PCB Layout**  
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-16A085?logoColor=white) ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-FF6D00?logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?logo=kicad&logoColor=white)  
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-16A085?logoColor=white) ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-FF6D00?logoColor=white) 
 #### **Simulation & Modeling**  
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-8C1C13?logoColor=white) ![Quartus](https://img.shields.io/badge/-Quartus-1572B6?logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-8C1C13?logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white)  
 #### **3D Modeling & Layout Design**  
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?logo=autodesk&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-EE3124?logo=autodesk&logoColor=white) ![Catia](https://img.shields.io/badge/-CATIA-F5792A?logo=blender&logoColor=white)  
 #### **Programming Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
 #### **Development Environments**  
@@ -48,43 +48,6 @@ My work spans **embedded C/C++ development, sensor integration, control systems,
 ![Schematic](https://img.shields.io/badge/-Schematic-8B0000?logoColor=white) ![PCBA](https://img.shields.io/badge/-PCBA-FF6F00?logoColor=white) ![Circuit Prototyping](https://img.shields.io/badge/-Circuit%20Prototyping-3CB371?logoColor=white) 
 #### **Networking**  
 ![MODBUS](https://img.shields.io/badge/-MODBUS-0055A4?logoColor=white) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-6A5ACD?logoColor=white) ![Ethernet](https://img.shields.io/badge/-Ethernet-FF0000?logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logoColor=white) ![RS232](https://img.shields.io/badge/-RS232-00008B?logoColor=white) ![RS485](https://img.shields.io/badge/-RS485-6A5ACD?logoColor=white) 
-
-### **Programming Languages**
-- C / C++
-- Python
-- Rust
-- MATLAB / Simulink
-
-### **Embedded & Platforms**
-- Arduino
-- Raspberry Pi (4, Zero 2 W)
-- ESP32
-- AVR
-- PYNQ-Z1
-
-### **RTOS & Embedded Software**
-- FreeRTOS
-- Embedded Linux
-
-### **IoT & Networking**
-- MQTT
-- MODBUS
-- TCP/IP
-- Ethernet
-- RS485
-
-### **Tools & Environments**
-- Git
-- Linux
-- VS Code
-- PlatformIO
-- MATLAB
-- Simulink
-
-### **Hardware & Prototyping**
-- Oscilloscope & Multimeter
-- PCB Design & Prototyping
-- Soldering & Debugging
 
 ---
 
@@ -115,7 +78,7 @@ My work spans **embedded C/C++ development, sensor integration, control systems,
 ---
 
 ## 📫 **Get in Touch**
-- Email: mehdi.moallemkolaei@yahoo.com
+- 📧Email: mehdi.moallemkolaei@yahoo.com
 
 ---
 
