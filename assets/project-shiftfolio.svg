@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="235" viewBox="0 0 600 235" role="img" aria-labelledby="t d">
+<title id="t">Shiftfolio</title><desc id="d">AI-assisted schedule extraction and review</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101d2b"/><stop offset="1" stop-color="#162c3c"/></linearGradient></defs>
+<rect width="600" height="235" rx="19" fill="url(#b)"/><rect x="1" y="1" width="598" height="233" rx="18" stroke="#a6a0ff" stroke-opacity=".37" fill="none"/>
+<rect x="25" y="22" width="4" height="42" rx="2" fill="#a6a0ff"/>
+<text x="43" y="42" fill="#a6a0ff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">2026 • WEB APPLICATION</text>
+<text x="29" y="105" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">Shiftfolio</text>
+<text x="30" y="140" fill="#b1c6d2" font-family="Segoe UI,Arial,sans-serif" font-size="17">AI-assisted schedule extraction and review</text>
+<path d="M30 186H570" stroke="#7195a7" stroke-opacity=".27"/>
+<text x="30" y="214" fill="#97b5c4" font-family="Segoe UI,Arial,sans-serif" font-size="13">EXPLORE PROJECT</text>
+<path d="M150 209h22m-8-7 8 7-8 7" stroke="#a6a0ff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g opacity=".42"><rect x="440" y="58" width="107" height="89" rx="9" fill="none" stroke="#a6a0ff" stroke-width="2"/><path d="M440 78h107M462 78v69M486 78v69M510 78v69M440 101h107M440 124h107" stroke="#a6a0ff" stroke-width="2"/><rect x="463" y="103" width="22" height="20" rx="3" fill="#a6a0ff"/></g>
+</svg>
