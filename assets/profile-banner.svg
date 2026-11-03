@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="292" viewBox="0 0 1200 292" role="img" aria-labelledby="title desc">
+<title id="title">Mehdi Moallemkolaei</title><desc id="desc">Embedded systems, control engineering, and cyber-physical systems. A geometric circuit-inspired graphic.</desc>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1422"/><stop offset="1" stop-color="#13283b"/></linearGradient>
+<linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e8b876"/><stop offset="1" stop-color="#4fdbc9"/></linearGradient>
+</defs>
+<rect width="1200" height="292" rx="22" fill="url(#background)"/>
+<path d="M0 280H1200M0 0L0 292" stroke="#4bb8b3" stroke-opacity=".13"/>
+<circle cx="995" cy="137" r="117" stroke="#56bdba" stroke-opacity=".12" fill="none"/>
+<circle cx="995" cy="137" r="88" stroke="#56bdba" stroke-opacity=".21" fill="none"/>
+<circle cx="995" cy="137" r="52" stroke="#e8b876" stroke-opacity=".32" fill="none"/>
+<g stroke="#58c9c2" fill="none" stroke-width="2" stroke-opacity=".65" stroke-linejoin="round">
+<path d="M790 70H894L952 113H1033L1090 66H1160"/><path d="M769 189H873L931 150H1050L1114 214H1181"/>
+<path d="M827 252V206L886 154H945"/><path d="M1121 27V80L1062 134"/>
+<path d="M790 111H854L905 151"/>
+</g>
+<g fill="#57d8c4"><circle cx="790" cy="70" r="5"/><circle cx="769" cy="189" r="5"/><circle cx="827" cy="252" r="5"/><circle cx="1181" cy="214" r="5"/><circle cx="1121" cy="27" r="5"/></g>
+<g fill="#e8b876"><circle cx="952" cy="113" r="6"/><circle cx="931" cy="150" r="6"/><circle cx="1062" cy="134" r="6"/></g>
+<path d="M72 59H175" stroke="url(#stroke)" stroke-width="5" stroke-linecap="round"/>
+<text x="72" y="130" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="57" fill="#f0f6fc" letter-spacing="1.2">MEHDI</text>
+<text x="72" y="185" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="44" fill="#f0f6fc">Moallemkolaei</text>
+<text x="74" y="236" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#a8c4d2" letter-spacing="1.1">EMBEDDED SYSTEMS  /  CONTROL  /  AUTOMATION</text>
+</svg>
