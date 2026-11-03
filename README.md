@@ -43,6 +43,18 @@ Designed and evaluated a **simulation-based smart-city energy architecture** wit
 
 📄 [Read the published master's thesis](https://urn.fi/URN:NBN:fi:tuni-202606298025)
 
+### 🧪 Inertia — Nonlinear Control & Dynamics Studio | 2026
+**JavaScript · Three.js · RK4 · LQR/PID/Fuzzy Control · Optimization**
+
+Developed a self-contained, offline **control engineering laboratory** for a cart with one, two, or three pendulum links.
+
+- Built a nonlinear rigid-body simulator with motor dynamics, friction, sensor effects, rail constraints, and interactive 3D visualization.
+- Implemented swing-up and stabilization using LQR, PID, and fuzzy control. The two- and three-link LQR examples use planned force trajectories and feedback tracking.
+- Added live signal monitoring, model configuration, CSV export, physics checks, and controller auto-tuning with differential evolution, randomized validation, and resumable checkpoints.
+- The supplied simulation report records **20/20 successful trials** for each of the two-link and three-link default models under specific randomized test conditions. Hardware validation remains unverified.
+
+**Status:** Standalone browser application (version 4.1); source repository not yet published.
+
 ### 🗓️ Shiftfolio — AI-Assisted Schedule Extraction | In development
 **Web App · Cloudflare Workers & D1 · Vercel · AI APIs · Persian/English**
 
@@ -98,10 +110,10 @@ Built a stepper-motor control prototype with live position input and potentiomet
 | --- | --- |
 | **Programming** | C, C++, Python, MATLAB, JavaScript, HTML, CSS |
 | **Embedded platforms** | Raspberry Pi, Arduino, ESP32, AVR/ATmega, PYNQ |
-| **Control & simulation** | MATLAB/Simulink, PI/PID control, Proteus, COMSOL |
+| **Control & simulation** | MATLAB/Simulink, PI/PID and LQR control, nonlinear dynamics, RK4 simulation, Proteus, COMSOL |
 | **Mechanical & electronics design** | SolidWorks, CATIA, EasyEDA, Altium Designer, schematic and PCB design |
 | **IoT & automation** | MQTT, Node-RED, Modbus, TCP/IP, Ethernet, PLC/TwinCAT |
-| **Software & cloud** | Git/GitHub, Linux, VS Code, PlatformIO, Cloudflare Workers/D1, Vercel, REST APIs |
+| **Software & cloud** | Git/GitHub, Linux, VS Code, PlatformIO, JavaScript, Three.js, Cloudflare Workers/D1, Vercel, REST APIs |
 | **Parallel computing** | OpenMP, OpenCL, SDL2, CMake |
 | **Hands-on work** | Sensor integration, circuit prototyping, soldering, test instruments, 3D printing |
 
