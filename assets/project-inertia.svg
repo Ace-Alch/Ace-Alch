@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="235" viewBox="0 0 600 235" role="img" aria-labelledby="t d">
+<title id="t">Inertia Control Studio</title><desc id="d">Nonlinear dynamics • 1–3 pendulum links</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101d2b"/><stop offset="1" stop-color="#162c3c"/></linearGradient></defs>
+<rect width="600" height="235" rx="19" fill="url(#b)"/><rect x="1" y="1" width="598" height="233" rx="18" stroke="#edbf80" stroke-opacity=".37" fill="none"/>
+<rect x="25" y="22" width="4" height="42" rx="2" fill="#edbf80"/>
+<text x="43" y="42" fill="#edbf80" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">2026 • INTERACTIVE LAB</text>
+<text x="29" y="105" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">Inertia Control Studio</text>
+<text x="30" y="140" fill="#b1c6d2" font-family="Segoe UI,Arial,sans-serif" font-size="17">Nonlinear dynamics • 1–3 pendulum links</text>
+<path d="M30 186H570" stroke="#7195a7" stroke-opacity=".27"/>
+<text x="30" y="214" fill="#97b5c4" font-family="Segoe UI,Arial,sans-serif" font-size="13">EXPLORE PROJECT</text>
+<path d="M150 209h22m-8-7 8 7-8 7" stroke="#edbf80" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g opacity=".42"><path d="M440 156h121" stroke="#edbf80" stroke-width="4"/><rect x="470" y="140" width="52" height="17" rx="5" fill="#edbf80"/><path d="M496 140 475 108 507 79 489 53" stroke="#edbf80" stroke-width="5" stroke-linecap="round" fill="none"/><g fill="#edbf80"><circle cx="475" cy="108" r="8"/><circle cx="507" cy="79" r="8"/><circle cx="489" cy="53" r="8"/></g></g>
+</svg>
