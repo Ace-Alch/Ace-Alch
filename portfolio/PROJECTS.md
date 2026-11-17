@@ -2,7 +2,7 @@
 
 Use the project pages to explore all 50 projects. Each page shows the purpose, tools and project record.
 
-Each row records the owner’s stated project scope. Existing repositories keep their access settings. Twenty new project repositories are published. Twenty further packages are prepared. GitHub has temporarily limited new repository creation.
+Each row records the owner’s stated project scope. Existing repositories keep their access settings. Thirty new project repositories are published. Ten further packages are prepared. GitHub has temporarily limited new repository creation.
 
 ## Engineering
 
@@ -42,17 +42,17 @@ Each row records the owner’s stated project scope. Existing repositories keep 
 | [Life Sorted](https://github.com/Ace-Alch/life-sorted) | Provide a visual bullet journal for tasks, schedules, reminders and progress. | Public project guide | [Explore project](https://ace-alch.github.io/work/life-sorted/) |
 | [FitMate](https://github.com/Ace-Alch/fitmate) | Document the FitMate course project and assignment work. | Public project guide | [Explore project](https://ace-alch.github.io/work/fitmate/) |
 | [F-Low Food Delivery System](https://github.com/Ace-Alch/f-low-food-delivery) | Describe a food-delivery system through use cases and a 4+1 architecture design. | Public project guide | [Explore project](https://ace-alch.github.io/work/f-low-food-delivery/) |
-| Orienteering Map | List checkpoints and calculate route lengths. | Package prepared | [Explore project](https://ace-alch.github.io/work/orienteering-map/) |
-| Golf Statistics | Read golf score records and query players, clubs and locations. | Package prepared | [Explore project](https://ace-alch.github.io/work/golf-statistics/) |
-| RISC-V Pipeline Simulator Assignment | Study pipeline behavior and hazards through simulator exercises. | Package prepared | [Explore project](https://ace-alch.github.io/work/risc-v-pipeline-simulator/) |
-| Python for Data Analytics | Organize Python analytics exercises and Git workflows. | Package prepared | [Explore project](https://ace-alch.github.io/work/python-data-analytics/) |
-| Shiftfolio / Shiftnama | Convert roster images to an editable schedule and calendar export in Persian and English. | Package prepared | [Explore project](https://ace-alch.github.io/work/shiftfolio/) |
-| Nobat Shift Studio | Explore Persian shift scheduling through a separate mobile-oriented web interface. | Package prepared | [Explore project](https://ace-alch.github.io/work/nobat-shift-studio/) |
-| Remote14 | Control a personal iPhone through Shortcuts commands, an email receiver and a web controller. | Package prepared | [Explore project](https://ace-alch.github.io/work/remote14/) |
-| CloudDrop | Share and manage files through a Telegram bot with links, QR codes and expiry controls. | Package prepared | [Explore project](https://ace-alch.github.io/work/clouddrop/) |
-| Hamharakat | Explore Persian physiotherapy interfaces, exercise views and an anatomy viewer. | Package prepared | [Explore project](https://ace-alch.github.io/work/hamharakat/) |
+| Orienteering Map | List checkpoints and calculate route lengths. | Public project guide | [Explore project](https://ace-alch.github.io/work/orienteering-map/) |
+| Golf Statistics | Read golf score records and query players, clubs and locations. | Public project guide | [Explore project](https://ace-alch.github.io/work/golf-statistics/) |
+| RISC-V Pipeline Simulator Assignment | Study pipeline behavior and hazards through simulator exercises. | Public project guide | [Explore project](https://ace-alch.github.io/work/risc-v-pipeline-simulator/) |
+| Python for Data Analytics | Organize Python analytics exercises and Git workflows. | Public project guide | [Explore project](https://ace-alch.github.io/work/python-data-analytics/) |
+| Shiftfolio / Shiftnama | Convert roster images to an editable schedule and calendar export in Persian and English. | Public project guide | [Explore project](https://ace-alch.github.io/work/shiftfolio/) |
+| Nobat Shift Studio | Explore Persian shift scheduling through a separate mobile-oriented web interface. | Public project guide | [Explore project](https://ace-alch.github.io/work/nobat-shift-studio/) |
+| Remote14 | Control a personal iPhone through Shortcuts commands, an email receiver and a web controller. | Public project guide | [Explore project](https://ace-alch.github.io/work/remote14/) |
+| CloudDrop | Share and manage files through a Telegram bot with links, QR codes and expiry controls. | Public project guide | [Explore project](https://ace-alch.github.io/work/clouddrop/) |
+| Hamharakat | Explore Persian physiotherapy interfaces, exercise views and an anatomy viewer. | Public project guide | [Explore project](https://ace-alch.github.io/work/hamharakat/) |
 | Machine Doctor Edge | Explore device fault diagnosis from audio and images with local processing and an Android target. | Private repository | [Explore project](https://ace-alch.github.io/work/machine-doctor-edge/) |
-| LG Remote 3D Viewer | Reconstruct an interactive browser model of an LG remote from reference photographs. | Package prepared | [Explore project](https://ace-alch.github.io/work/lg-remote-3d-viewer/) |
+| LG Remote 3D Viewer | Reconstruct an interactive browser model of an LG remote from reference photographs. | Public project guide | [Explore project](https://ace-alch.github.io/work/lg-remote-3d-viewer/) |
 | ARC / 01 | Inspect a plasma arc lighter through an exploded view, component selection and a bill of materials. | Package prepared | [Explore project](https://ace-alch.github.io/work/arc-01/) |
 | Persian Text Encoder/Decoder | Encode and decode text offline with a reversible character map and Android copy support. | Package prepared | [Explore project](https://ace-alch.github.io/work/persian-text-encoder/) |
 | Raspberry Pi Personal Cloud / NAS | Run Nextcloud on a Raspberry Pi with Tailscale remote access. | Package prepared | [Explore project](https://ace-alch.github.io/work/raspberry-pi-personal-cloud/) |
