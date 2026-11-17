@@ -24,7 +24,7 @@ I build and test systems that connect **hardware, control and software**. My wor
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://ace-alch.github.io/apps/inertia-lab/"><img src="assets/project-inertia.svg" alt="Inertia Control Studio — interactive control laboratory" width="100%"></a>
+<a href="https://ace-alch.github.io/apps/inertia-lab/"><img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/Inertia-Control-Studio.webp" alt="Inertia Control Studio — interactive control laboratory" width="100%"></a>
 <h3>Inertia Control Studio</h3>
 <p>Model, tune and balance a cart with one to three pendulum links.</p>
 <p><sub>JavaScript · Three.js · LQR / PID / fuzzy</sub></p>
