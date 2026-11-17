@@ -22,6 +22,8 @@ I build and test systems where **hardware, control algorithms, and software** me
 
 **My focus:** hands-on R&D · embedded control · smart energy · modeling & simulation
 
+[Browse all 52 project records](portfolio/PROJECTS.md)
+
 ### ✦ Selected work
 
 <table>
