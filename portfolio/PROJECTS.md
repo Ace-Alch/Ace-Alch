@@ -1,6 +1,6 @@
 # Project directory
 
-Each row records the owner’s stated project scope. Existing repositories keep their access settings. Ten new repositories are published. Thirty further packages are prepared; GitHub currently limits new repository creation.
+Each row records the owner’s stated project scope. Existing repositories keep their access settings. Twenty new project repositories are published. Twenty further packages are prepared. GitHub has temporarily limited new repository creation.
 
 ## Engineering
 
@@ -22,13 +22,13 @@ Each row records the owner’s stated project scope. Existing repositories keep 
 | [PID-Controlled Stepper Motor](https://github.com/Ace-Alch/PID_StepperMotor) | Demonstrate PID calculations and live gain adjustment with an Arduino and stepper driver. | Public repository |
 | [Arduino TFT Volume Gauge](https://github.com/Ace-Alch/arduino-tft-volume-gauge) | Show a potentiometer input as a graphical volume gauge. | Public repository |
 | [Arduino MKR FOX 1200 Sigfox Demo](https://github.com/Ace-Alch/mkr-fox-sigfox-demo) | Send messages and check them through the Sigfox backend. | Public repository |
-| ESP32-C3 Rust and RTIC Experiments | Explore interrupts and button-press rhythm detection with Rust. | Package prepared |
-| TwinCAT 3 PLC and HMI Exercise | Control pushbuttons and indicators through PLC logic and an operator display. | Package prepared |
-| Personal CAD and FDM Builds | Collect custom parts, fixtures and assemblies with their design and print records. | Package prepared |
-| Water Purification Automation Internship | Document work with pumps and sensor-actuator networks in water treatment. | Package prepared |
+| [ESP32-C3 Rust and RTIC Experiments](https://github.com/Ace-Alch/esp32-c3-rust-rtic) | Explore interrupts and button-press rhythm detection with Rust. | Public project guide |
+| [TwinCAT 3 PLC and HMI Exercise](https://github.com/Ace-Alch/twincat-plc-hmi) | Control pushbuttons and indicators through PLC logic and an operator display. | Public project guide |
+| [Personal CAD and FDM Builds](https://github.com/Ace-Alch/personal-cad-fdm-builds) | Collect custom parts, fixtures and assemblies with their design and print records. | Public project guide |
+| [Water Purification Automation Internship](https://github.com/Ace-Alch/water-purification-automation) | Document work with pumps and sensor-actuator networks in water treatment. | Public project guide |
 | CyberCity | Study four interconnected DC microgrids with local control, supervisory control and energy sharing. | Private repository |
-| CyberCity Sensing and Communications | Explore networked sensing and automation with Raspberry Pi boards. | Package prepared |
-| HYPERSIM-to-Simulink Distribution Model | Recreate and troubleshoot a distribution model with PV, battery storage and combined heat and power. | Package prepared |
+| [CyberCity Sensing and Communications](https://github.com/Ace-Alch/cybercity-sensing-communications) | Explore networked sensing and automation with Raspberry Pi boards. | Public project guide |
+| [HYPERSIM-to-Simulink Distribution Model](https://github.com/Ace-Alch/hypersim-simulink-distribution) | Recreate and troubleshoot a distribution model with PV, battery storage and combined heat and power. | Public project guide |
 | [GPU-Accelerated Satellite Simulation](https://github.com/Ace-Alch/GPU-Accelerated-Satellite-Sim) | Compare serial, OpenMP and OpenMP plus OpenCL implementations of a gravitational simulation. | Public repository |
 | [Inertia Control Studio / Pendulum Lab](https://github.com/Ace-Alch/Inertia-Control-Studio) | Explore one-, two- and three-link cart-pendulum dynamics, swing-up, balancing and tuning. | Public repository |
 
@@ -36,10 +36,10 @@ Each row records the owner’s stated project scope. Existing repositories keep 
 
 | Project | Scope | Repository status |
 | :-- | :-- | :-- |
-| RoadCast | Provide a map-based weather forecast interface with charts, comparisons and forecast views. | Package prepared |
-| Life Sorted | Provide a visual bullet journal for tasks, schedules, reminders and progress. | Package prepared |
-| FitMate | Document the FitMate course project and assignment work. | Package prepared |
-| F-Low Food Delivery System | Describe a food-delivery system through use cases and a 4+1 architecture design. | Package prepared |
+| [RoadCast](https://github.com/Ace-Alch/roadcast) | Provide a map-based weather forecast interface with charts, comparisons and forecast views. | Public project guide |
+| [Life Sorted](https://github.com/Ace-Alch/life-sorted) | Provide a visual bullet journal for tasks, schedules, reminders and progress. | Public project guide |
+| [FitMate](https://github.com/Ace-Alch/fitmate) | Document the FitMate course project and assignment work. | Public project guide |
+| [F-Low Food Delivery System](https://github.com/Ace-Alch/f-low-food-delivery) | Describe a food-delivery system through use cases and a 4+1 architecture design. | Public project guide |
 | Orienteering Map | List checkpoints and calculate route lengths. | Package prepared |
 | Golf Statistics | Read golf score records and query players, clubs and locations. | Package prepared |
 | RISC-V Pipeline Simulator Assignment | Study pipeline behavior and hazards through simulator exercises. | Package prepared |

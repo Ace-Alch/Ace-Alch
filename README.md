@@ -98,7 +98,7 @@ I build and test systems that connect **hardware, control and software**. My wor
 | [LED Matrix Game](https://github.com/Ace-Alch/LED-Matrix-Game) | Bare-metal C and ARM assembly on PYNQ-Z1 |
 | [Shiftfolio](https://shiftfolio.vercel.app/) | Bilingual schedule app, in development |
 
-[Full project directory](portfolio/PROJECTS.md)
+[Full project directory](portfolio/PROJECTS.md) · [Publication status](portfolio/PUBLICATION-STATUS.md)
 
 </details>
 
