@@ -30,17 +30,17 @@ Updated: 18 November 2026.
 
 Each new repository contains a themed cover, navigation buttons and project documentation. Original source files are not included in these documentation packages.
 
-## Remaining packages
+## Published guides awaiting separate repositories
 
-GitHub stopped repository creation with: "You have created too many repositories, too quickly. Please try again later." Ten repositories were created one at a time in this update. Creation stopped at the next request with the same limit message. No further creation requests were sent. Ten packages remain.
+GitHub stopped repository creation with: "You have created too many repositories, too quickly. Please try again later." Ten repositories were created one at a time in this update. Creation stopped at the next request with the same limit message. No further creation requests were sent. The ten remaining packages are now published below in this profile repository. Only separate repository creation remains.
 
-- ARC / 01 (`arc-01`)
-- Persian Text Encoder/Decoder (`persian-text-encoder`)
-- Raspberry Pi Personal Cloud / NAS (`raspberry-pi-personal-cloud`)
-- Custom Linux VPN and Wi-Fi Gateway (`linux-vpn-wifi-gateway`)
-- Raspberry Pi VPN Bridge and Ad Blocking (`raspberry-pi-vpn-adblock`)
-- Raspberry Pi n8n Server (`raspberry-pi-n8n`)
-- Arduino DC Motor Speed Control (`arduino-dc-motor-pid`)
-- Tinnitus Audio / Embedded ANC Concept (`tinnitus-audio-anc-concept`)
-- Persian Tech and DIY YouTube Channel (`persian-tech-diy-channel`)
-- Finland-Iran Veterinary Products Trade (`finland-iran-veterinary-trade`)
+- [ARC / 01](packages/arc-01/README.md) (`arc-01`)
+- [Persian Text Encoder/Decoder](packages/persian-text-encoder/README.md) (`persian-text-encoder`)
+- [Raspberry Pi Personal Cloud / NAS](packages/raspberry-pi-personal-cloud/README.md) (`raspberry-pi-personal-cloud`)
+- [Custom Linux VPN and Wi-Fi Gateway](packages/linux-vpn-wifi-gateway/README.md) (`linux-vpn-wifi-gateway`)
+- [Raspberry Pi VPN Bridge and Ad Blocking](packages/raspberry-pi-vpn-adblock/README.md) (`raspberry-pi-vpn-adblock`)
+- [Raspberry Pi n8n Server](packages/raspberry-pi-n8n/README.md) (`raspberry-pi-n8n`)
+- [Arduino DC Motor Speed Control](packages/arduino-dc-motor-pid/README.md) (`arduino-dc-motor-pid`)
+- [Tinnitus Audio / Embedded ANC Concept](packages/tinnitus-audio-anc-concept/README.md) (`tinnitus-audio-anc-concept`)
+- [Persian Tech and DIY YouTube Channel](packages/persian-tech-diy-channel/README.md) (`persian-tech-diy-channel`)
+- [Finland-Iran Veterinary Products Trade](packages/finland-iran-veterinary-trade/README.md) (`finland-iran-veterinary-trade`)

@@ -2,7 +2,7 @@
 
 Use the project pages to explore all 50 projects. Each page shows the purpose, tools and project record.
 
-Each row records the owner’s stated project scope. Existing repositories keep their access settings. Thirty new project repositories are published. Ten further packages are prepared. GitHub has temporarily limited new repository creation.
+Each row records the owner’s stated project scope. Existing repositories keep their access settings. Thirty new project repositories are published. Ten further guides are available in this repository. Their separate repositories are pending because GitHub has temporarily limited repository creation.
 
 ## Engineering
 
@@ -53,9 +53,9 @@ Each row records the owner’s stated project scope. Existing repositories keep 
 | Hamharakat | Explore Persian physiotherapy interfaces, exercise views and an anatomy viewer. | Public project guide | [Explore project](https://ace-alch.github.io/work/hamharakat/) |
 | Machine Doctor Edge | Explore device fault diagnosis from audio and images with local processing and an Android target. | Private repository | [Explore project](https://ace-alch.github.io/work/machine-doctor-edge/) |
 | LG Remote 3D Viewer | Reconstruct an interactive browser model of an LG remote from reference photographs. | Public project guide | [Explore project](https://ace-alch.github.io/work/lg-remote-3d-viewer/) |
-| ARC / 01 | Inspect a plasma arc lighter through an exploded view, component selection and a bill of materials. | Package prepared | [Explore project](https://ace-alch.github.io/work/arc-01/) |
-| Persian Text Encoder/Decoder | Encode and decode text offline with a reversible character map and Android copy support. | Package prepared | [Explore project](https://ace-alch.github.io/work/persian-text-encoder/) |
-| Raspberry Pi Personal Cloud / NAS | Run Nextcloud on a Raspberry Pi with Tailscale remote access. | Package prepared | [Explore project](https://ace-alch.github.io/work/raspberry-pi-personal-cloud/) |
+| ARC / 01 | Inspect a plasma arc lighter through an exploded view, component selection and a bill of materials. | [Published guide](packages/arc-01/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/arc-01/) |
+| Persian Text Encoder/Decoder | Encode and decode text offline with a reversible character map and Android copy support. | [Published guide](packages/persian-text-encoder/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/persian-text-encoder/) |
+| Raspberry Pi Personal Cloud / NAS | Run Nextcloud on a Raspberry Pi with Tailscale remote access. | [Published guide](packages/raspberry-pi-personal-cloud/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/raspberry-pi-personal-cloud/) |
 | [Engineering Portfolio Website](https://github.com/Ace-Alch/Ace-Alch.github.io) | Present engineering work through project pages and an experimental 3D space-themed interface. | Public repository |
 | [GitHub Profile](https://github.com/Ace-Alch/Ace-Alch) | Provide a clear entry point to engineering projects and repository documentation. | Public repository |
 
@@ -63,10 +63,10 @@ Each row records the owner’s stated project scope. Existing repositories keep 
 
 | Project | Scope | Repository status | Details |
 | :-- | :-- | :-- | :-- |
-| Custom Linux VPN and Wi-Fi Gateway | Explore a dual-Ethernet gateway through hardware architecture, schematic and PCB layout work. | Package prepared | [Explore project](https://ace-alch.github.io/work/linux-vpn-wifi-gateway/) |
-| Raspberry Pi VPN Bridge and Ad Blocking | Evaluate a Raspberry Pi network bridge with VPN routing and ad blocking. | Package prepared | [Explore project](https://ace-alch.github.io/work/raspberry-pi-vpn-adblock/) |
-| Raspberry Pi n8n Server | Explore self-hosted workflow automation on a Raspberry Pi 4. | Package prepared | [Explore project](https://ace-alch.github.io/work/raspberry-pi-n8n/) |
-| Arduino DC Motor Speed Control | Explore PID speed control through simulation and a planned Arduino implementation. | Package prepared | [Explore project](https://ace-alch.github.io/work/arduino-dc-motor-pid/) |
-| Tinnitus Audio / Embedded ANC Concept | Explore sound generation and embedded active noise control. | Package prepared | [Explore project](https://ace-alch.github.io/work/tinnitus-audio-anc-concept/) |
-| Persian Tech and DIY YouTube Channel | Plan a Persian technology and DIY channel with content direction and banner design. | Package prepared | [Explore project](https://ace-alch.github.io/work/persian-tech-diy-channel/) |
-| Finland-Iran Veterinary Products Trade | Record a feasibility study of veterinary product trade between Finland and Iran. | Package prepared | [Explore project](https://ace-alch.github.io/work/finland-iran-veterinary-trade/) |
+| Custom Linux VPN and Wi-Fi Gateway | Explore a dual-Ethernet gateway through hardware architecture, schematic and PCB layout work. | [Published guide](packages/linux-vpn-wifi-gateway/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/linux-vpn-wifi-gateway/) |
+| Raspberry Pi VPN Bridge and Ad Blocking | Evaluate a Raspberry Pi network bridge with VPN routing and ad blocking. | [Published guide](packages/raspberry-pi-vpn-adblock/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/raspberry-pi-vpn-adblock/) |
+| Raspberry Pi n8n Server | Explore self-hosted workflow automation on a Raspberry Pi 4. | [Published guide](packages/raspberry-pi-n8n/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/raspberry-pi-n8n/) |
+| Arduino DC Motor Speed Control | Explore PID speed control through simulation and a planned Arduino implementation. | [Published guide](packages/arduino-dc-motor-pid/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/arduino-dc-motor-pid/) |
+| Tinnitus Audio / Embedded ANC Concept | Explore sound generation and embedded active noise control. | [Published guide](packages/tinnitus-audio-anc-concept/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/tinnitus-audio-anc-concept/) |
+| Persian Tech and DIY YouTube Channel | Plan a Persian technology and DIY channel with content direction and banner design. | [Published guide](packages/persian-tech-diy-channel/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/persian-tech-diy-channel/) |
+| Finland-Iran Veterinary Products Trade | Record a feasibility study of veterinary product trade between Finland and Iran. | [Published guide](packages/finland-iran-veterinary-trade/README.md); separate repository pending | [Explore project](https://ace-alch.github.io/work/finland-iran-veterinary-trade/) |
