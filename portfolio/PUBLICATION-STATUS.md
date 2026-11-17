@@ -1,8 +1,21 @@
 # Publication status
 
-Updated: 17 November 2026.
+Updated: 18 November 2026.
 
-## Published in this update
+## Published on 18 November 2026
+
+- [orienteering-map](https://github.com/Ace-Alch/orienteering-map)
+- [golf-statistics](https://github.com/Ace-Alch/golf-statistics)
+- [risc-v-pipeline-simulator](https://github.com/Ace-Alch/risc-v-pipeline-simulator)
+- [python-data-analytics](https://github.com/Ace-Alch/python-data-analytics)
+- [shiftfolio](https://github.com/Ace-Alch/shiftfolio)
+- [nobat-shift-studio](https://github.com/Ace-Alch/nobat-shift-studio)
+- [remote14](https://github.com/Ace-Alch/remote14)
+- [clouddrop](https://github.com/Ace-Alch/clouddrop)
+- [hamharakat](https://github.com/Ace-Alch/hamharakat)
+- [lg-remote-3d-viewer](https://github.com/Ace-Alch/lg-remote-3d-viewer)
+
+## Published in the previous update
 
 - [ESP32-C3 Rust and RTIC Experiments](https://github.com/Ace-Alch/esp32-c3-rust-rtic)
 - [TwinCAT 3 PLC and HMI Exercise](https://github.com/Ace-Alch/twincat-plc-hmi)
@@ -19,18 +32,8 @@ Each new repository contains a themed cover, navigation buttons and project docu
 
 ## Remaining packages
 
-GitHub stopped repository creation with: "You have created too many repositories, too quickly. Please try again later." No further creation requests were sent after this message.
+GitHub stopped repository creation with: "You have created too many repositories, too quickly. Please try again later." Ten repositories were created one at a time in this update. Creation stopped at the next request with the same limit message. No further creation requests were sent. Ten packages remain.
 
-- Orienteering Map (`orienteering-map`)
-- Golf Statistics (`golf-statistics`)
-- RISC-V Pipeline Simulator Assignment (`risc-v-pipeline-simulator`)
-- Python for Data Analytics (`python-data-analytics`)
-- Shiftfolio / Shiftnama (`shiftfolio`)
-- Nobat Shift Studio (`nobat-shift-studio`)
-- Remote14 (`remote14`)
-- CloudDrop (`clouddrop`)
-- Hamharakat (`hamharakat`)
-- LG Remote 3D Viewer (`lg-remote-3d-viewer`)
 - ARC / 01 (`arc-01`)
 - Persian Text Encoder/Decoder (`persian-text-encoder`)
 - Raspberry Pi Personal Cloud / NAS (`raspberry-pi-personal-cloud`)
