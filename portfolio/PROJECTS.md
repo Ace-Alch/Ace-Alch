@@ -1,27 +1,27 @@
 # Project directory
 
-Each row records the owner’s stated project scope. Existing repositories keep their access settings. New packages are prepared; repository creation is pending.
+Each row records the owner’s stated project scope. Existing repositories keep their access settings. Ten new repositories are published. Thirty further packages are prepared; GitHub currently limits new repository creation.
 
 ## Engineering
 
 | Project | Scope | Repository status |
 | :-- | :-- | :-- |
-| Nasir Driving Simulator | Compare real and simulated driving behavior to assess simulator validity. | Package prepared |
-| Automated Sorting Conveyor | Sort objects by size with a physical conveyor and embedded control. | Package prepared |
-| Adjustable Conveyor Fixture | Change conveyor length and examine its effect on sorting timing. | Package prepared |
+| [Nasir Driving Simulator](https://github.com/Ace-Alch/nasir-driving-simulator) | Compare real and simulated driving behavior to assess simulator validity. | Public repository |
+| [Automated Sorting Conveyor](https://github.com/Ace-Alch/automated-sorting-conveyor) | Sort objects by size with a physical conveyor and embedded control. | Public repository |
+| [Adjustable Conveyor Fixture](https://github.com/Ace-Alch/adjustable-conveyor-fixture) | Change conveyor length and examine its effect on sorting timing. | Public repository |
 | Conveyor Software Testing | Test conveyor software as a separate course assignment. | Private repository |
-| MEMS Force Sensor | Design and simulate a microscale force sensor. | Package prepared |
-| Smart Hospital Bed | Combine patient-related sensing, bed positioning and networked visualization in a prototype. | Package prepared |
-| Smart UAV for Remote Inspection and Data Capture | Integrate a UAV mechanical platform, motors, sensors and embedded control for inspection and data capture. | Package prepared |
+| [MEMS Force Sensor](https://github.com/Ace-Alch/mems-force-sensor) | Design and simulate a microscale force sensor. | Public repository |
+| [Smart Hospital Bed](https://github.com/Ace-Alch/smart-hospital-bed) | Combine patient-related sensing, bed positioning and networked visualization in a prototype. | Public repository |
+| [Smart UAV for Remote Inspection and Data Capture](https://github.com/Ace-Alch/smart-uav-inspection) | Integrate a UAV mechanical platform, motors, sensors and embedded control for inspection and data capture. | Public repository |
 | [FPV Quadcopter CAD Design](https://github.com/Ace-Alch/CAD_FPV_Drone) | Document a quadcopter assembly with parts, drawings and exploded views. | Public repository |
 | [DJI Mavic Pro Simulation](https://github.com/Ace-Alch/dji-mavic-sim) | Model quadcopter dynamics, power components and PID flight control. | Public repository |
-| Drone Stateflow Experiment | Explore takeoff, forward movement and hover logic with blue-line detection. | Package prepared |
+| [Drone Stateflow Experiment](https://github.com/Ace-Alch/drone-stateflow-experiment) | Explore takeoff, forward movement and hover logic with blue-line detection. | Public repository |
 | [Sounder](https://github.com/Ace-Alch/Sounder) | Generate a variable-frequency signal with an ATmega328P circuit and firmware. | Public repository |
-| Wireless Button Monitor | Monitor four inputs and battery state, with a serial interface for a radio module. | Package prepared |
+| [Wireless Button Monitor](https://github.com/Ace-Alch/wireless-button-monitor) | Monitor four inputs and battery state, with a serial interface for a radio module. | Public repository |
 | [Bare-Metal LED Matrix Game](https://github.com/Ace-Alch/LED-Matrix-Game) | Run a spaceship game on PYNQ-Z1 with C, ARM assembly and a custom display driver. | Public repository |
 | [PID-Controlled Stepper Motor](https://github.com/Ace-Alch/PID_StepperMotor) | Demonstrate PID calculations and live gain adjustment with an Arduino and stepper driver. | Public repository |
-| Arduino TFT Volume Gauge | Show a potentiometer input as a graphical volume gauge. | Package prepared |
-| Arduino MKR FOX 1200 Sigfox Demo | Send messages and check them through the Sigfox backend. | Package prepared |
+| [Arduino TFT Volume Gauge](https://github.com/Ace-Alch/arduino-tft-volume-gauge) | Show a potentiometer input as a graphical volume gauge. | Public repository |
+| [Arduino MKR FOX 1200 Sigfox Demo](https://github.com/Ace-Alch/mkr-fox-sigfox-demo) | Send messages and check them through the Sigfox backend. | Public repository |
 | ESP32-C3 Rust and RTIC Experiments | Explore interrupts and button-press rhythm detection with Rust. | Package prepared |
 | TwinCAT 3 PLC and HMI Exercise | Control pushbuttons and indicators through PLC logic and an operator display. | Package prepared |
 | Personal CAD and FDM Builds | Collect custom parts, fixtures and assemblies with their design and print records. | Package prepared |
